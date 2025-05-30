@@ -1,0 +1,32 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "buy milk and cheese"
+    },
+    {
+      "id": "2",
+      "text": "read book"
+    },
+    {
+      "id": "3",
+      "text": "find a sport"
+    },
+    {
+      "id": "4",
+      "text": "find gorilla"
+    },
+    {
+      "id": "7",
+      "text": "learn geography"
+    },
+    {
+      "id": "6ee78698-723a-486e-ab1d-ca143b6e965f",
+      "text": "snuggle the mr.cat"
+    },
+    {
+      "id": "d51c8b89-cc64-4b76-81bc-d47959678645",
+      "text": "go and find new project"
+    }
+  ]
+}
