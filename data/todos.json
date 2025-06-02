@@ -2,31 +2,43 @@
   "tasks": [
     {
       "id": "1",
-      "text": "buy milk and cheese"
+      "text": "buy milk and cheese",
+      "completed": true
     },
     {
       "id": "2",
-      "text": "read book"
+      "text": "read book",
+      "completed": false
     },
     {
       "id": "3",
-      "text": "find a sport"
+      "text": "find a sport",
+      "completed": false
     },
     {
       "id": "4",
-      "text": "find gorilla"
+      "text": "find gorilla",
+      "completed": false
     },
     {
       "id": "7",
-      "text": "learn geography"
+      "text": "learn geography",
+      "completed": false
     },
     {
       "id": "6ee78698-723a-486e-ab1d-ca143b6e965f",
-      "text": "snuggle the mr.cat"
+      "text": "snuggle the mr.cat",
+      "completed": false
     },
     {
       "id": "d51c8b89-cc64-4b76-81bc-d47959678645",
-      "text": "go and find new project"
+      "text": "go and find new project",
+      "completed": true
+    },
+    {
+      "id": "fb3eaa6a-45b3-4e6e-b8c4-d6f9284263a8",
+      "text": "deconstruct the task",
+      "completed": false
     }
   ]
 }
